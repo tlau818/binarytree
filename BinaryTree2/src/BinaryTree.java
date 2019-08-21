@@ -1,3 +1,4 @@
+// added new comments - tlau 8/20/2019
 
 public class BinaryTree {
 	
